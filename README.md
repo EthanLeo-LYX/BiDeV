@@ -1,5 +1,4 @@
-# BiDeV
-[AAAI2025 **Oral**] BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking 
+# BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking [AAAI2025 **Oral**]  
 
 ## Introduction
 
