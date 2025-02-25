@@ -48,7 +48,7 @@ Please cite the paper in the following format.
 @inproceedings{liu2025bidev,
   title={BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking},
   author={Yuxuan Liu and Hongda Sun and Wenya Guo and Xinyan Xiao and Cunli Mao and Zhengtao Yu and Rui Yan},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence},
   year={2025}
 }
 ```
