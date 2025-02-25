@@ -1,5 +1,7 @@
 # BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking [AAAI2025 **Oral**]  
 
+Official implementation for our paper [BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking](https://arxiv.org/abs/2502.16181)
+
 ## Introduction
 
 Complex claim fact-checking performs a crucial role in disinformation detection. 
